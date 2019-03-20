@@ -1,3 +1,8 @@
+Experimentation Status: Failed to build and Run on Ubuntu
+
+---
+---
+
 # AngularElectron
 
 Build a native desktop timer app with Angular and Electron 
